@@ -1,6 +1,5 @@
 import React from 'react';
 
-// Components
 import Item from './ShoppingCartItem';
 
 const ShoppingCart = (props) => {
